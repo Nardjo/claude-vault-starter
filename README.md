@@ -15,8 +15,7 @@ Un vault Obsidian preconfigure pour donner une memoire permanente a Claude Code.
 raw/           <- Ton espace. Articles, docs, notes.
 wiki/          <- L'espace de Claude. Il compile et organise.
 CLAUDE.md      <- Les regles du jeu.
-.claude/       <- Commandes et skills locaux Claude.
-skills/        <- Instructions pour les operations.
+.claude/       <- Skills et commandes locaux Claude.
 ```
 
 ## Les 5 operations
